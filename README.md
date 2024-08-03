@@ -37,7 +37,3 @@ The dataset used in this project includes detailed records of customer feedback 
 - **Detailed Report** 📄: A comprehensive analysis of the impact of different factors on customer satisfaction.
 - **Visualizations** 📊: Graphs and charts illustrating key findings and trends.
 - **Recommendations** 💡: Actionable insights and suggestions for improving customer satisfaction based on the analysis.
-
-## Contact
-
-For more information or inquiries about this project, please contact [Your Name] at [Your Email].
